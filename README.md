@@ -55,3 +55,39 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 - Don't get demoralized by rejections, see [this](http://rejected.us) 
 
 # Step 10 - Select the best offer
+
+
+
+
+
+
+My Code School (Intro to Data Structures):
+https://www.youtube.com/watch?v=92S4z...
+
+MIT Open Courseware (Intro to Algorithms):
+https://www.youtube.com/watch?v=HtSuA...
+
+HackerEarth and HackerRank:
+https://www.hackerearth.com/
+https://www.hackerrank.com/
+
+Programming Interview Exposed:
+http://books.lihui.org/cs2/Wiley%20-%...
+
+Cracking the Coding Interview:
+https://github.com/yuanhui-yang/Crack...
+
+How to Conduct a Mock Interview:
+http://web.stanford.edu/dept/CTL/Oral...
+
+Angellist:
+https://angel.co/
+
+HackerNews Who's Hiring:
+https://news.ycombinator.com/item?id=...
+
+Making a great resume:
+https://medium.com/@order_group/job-i...
+
+Passing the Interview:
+http://blog.triplebyte.com/how-to-pas...
